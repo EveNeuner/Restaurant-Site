@@ -30,6 +30,7 @@ body {
     background-color: rgb(160, 180, 138);
 }
 
+
 img{
     margin: auto;
     padding-left: 45vw;
@@ -39,3 +40,10 @@ img{
 h3 {
     text-align: center;
     color:rgb(13, 66, 49)
+}
+
+.mainpic {
+    margin: auto
+    padding-left: 45vw;
+    padding-right: 40vw;
+}
