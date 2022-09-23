@@ -1,2 +1,34 @@
+h1 {
+    text-align: center;
+}
 
+p {
+    color: rgb(13, 66, 49);
+    text-align: center;
+}
+
+.navi {
+    border: 5px dashed;
+
+    list-style: none;
+    width: 50%;
+    margin: auto;
+
+    text-align: center;
+    padding: 0;
+}
+
+.navi>li>a:hover {
+    background-color: seagreen;
+}
+
+body {
+    background-color: rgb(160, 180, 138);
+}
+
+img{
+    margin: auto;
+    padding-left: ;
+    padding-right: ;
+}
 
