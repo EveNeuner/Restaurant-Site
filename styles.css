@@ -8,14 +8,18 @@ p {
 }
 
 .navi {
-    border: 5px dashed;
-
     list-style: none;
     width: 50%;
     margin: auto;
 
     text-align: center;
     padding: 0;
+}
+
+.navi>li {
+    display: inline-block;
+    border-style: outset;
+    border-radius: 3px;
 }
 
 .navi>li>a:hover {
@@ -28,7 +32,10 @@ body {
 
 img{
     margin: auto;
-    padding-left: ;
-    padding-right: ;
+    padding-left: 45vw;
+    padding-right: 33vw;
 }
 
+h3 {
+    text-align: center;
+    color:rgb(13, 66, 49)
