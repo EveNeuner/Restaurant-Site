@@ -33,7 +33,7 @@ body {
 
 img{
     margin: auto;
-    padding-left: 45vw;
+    padding-left: 44vw;
     padding-right: 33vw;
 }
 
@@ -47,5 +47,10 @@ div{
 }
 
 div>img{
-    max-width: fit-content;
+   
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
