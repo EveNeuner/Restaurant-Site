@@ -42,8 +42,10 @@ h3 {
     color:rgb(13, 66, 49)
 }
 
-.mainpic {
-    margin: auto
-    padding-left: 45vw;
-    padding-right: 40vw;
+div{
+    width: 100vw;
+}
+
+div>img{
+    max-width: fit-content;
 }
